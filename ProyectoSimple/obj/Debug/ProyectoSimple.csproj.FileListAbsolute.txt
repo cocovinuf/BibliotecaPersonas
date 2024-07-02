@@ -1,0 +1,10 @@
+D:\Proyectos C# Visual Studio Community\ProyectoSimple\ProyectoSimple\obj\Debug\ProyectoSimple.csproj.AssemblyReference.cache
+D:\Proyectos C# Visual Studio Community\ProyectoSimple\ProyectoSimple\obj\Debug\ProyectoSimple.Form1.resources
+D:\Proyectos C# Visual Studio Community\ProyectoSimple\ProyectoSimple\obj\Debug\ProyectoSimple.Properties.Resources.resources
+D:\Proyectos C# Visual Studio Community\ProyectoSimple\ProyectoSimple\obj\Debug\ProyectoSimple.csproj.GenerateResource.cache
+D:\Proyectos C# Visual Studio Community\ProyectoSimple\ProyectoSimple\obj\Debug\ProyectoSimple.csproj.CoreCompileInputs.cache
+D:\Proyectos C# Visual Studio Community\ProyectoSimple\ProyectoSimple\bin\Debug\ProyectoSimple.exe.config
+D:\Proyectos C# Visual Studio Community\ProyectoSimple\ProyectoSimple\bin\Debug\ProyectoSimple.exe
+D:\Proyectos C# Visual Studio Community\ProyectoSimple\ProyectoSimple\bin\Debug\ProyectoSimple.pdb
+D:\Proyectos C# Visual Studio Community\ProyectoSimple\ProyectoSimple\obj\Debug\ProyectoSimple.exe
+D:\Proyectos C# Visual Studio Community\ProyectoSimple\ProyectoSimple\obj\Debug\ProyectoSimple.pdb
