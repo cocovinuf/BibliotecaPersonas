@@ -49,9 +49,9 @@
             // dgvPersonas
             // 
             this.dgvPersonas.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvPersonas.Location = new System.Drawing.Point(27, 12);
+            this.dgvPersonas.Location = new System.Drawing.Point(189, 12);
             this.dgvPersonas.Name = "dgvPersonas";
-            this.dgvPersonas.Size = new System.Drawing.Size(718, 114);
+            this.dgvPersonas.Size = new System.Drawing.Size(455, 114);
             this.dgvPersonas.TabIndex = 0;
             // 
             // pbFoto
@@ -179,7 +179,7 @@
             this.Controls.Add(this.dgvPersonas);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form1";
+            this.Text = "Mi proyecto simple";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvPersonas)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pbFoto)).EndInit();

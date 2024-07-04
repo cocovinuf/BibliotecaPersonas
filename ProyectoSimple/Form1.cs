@@ -26,6 +26,7 @@ namespace ProyectoSimple
             ConexionDB conexionUno = new ConexionDB();
             ListaPersonas = conexionUno.Listar();
             dgvPersonas.DataSource = ListaPersonas;
+            dgvPersonas.Columns["UrlFoto"].Visible = false;
 
             Persona seleccionada = (Persona)dgvPersonas.CurrentRow.DataBoundItem;
             cargarImagen(seleccionada.UrlFoto);

@@ -15,6 +15,7 @@ namespace ProyectoSimple
 
         public string UrlFoto { get; set; }
 
+        public Estilo EstiloMusical { get; set; }
 
     }
 }

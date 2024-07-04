@@ -24,7 +24,7 @@ namespace ProyectoSimple
 
                 conexion.ConnectionString = "server=.\\SQLexpress; Database = ProyectoSimple_DB; integrated security = true";
                 comando.CommandType = System.Data.CommandType.Text;
-                comando.CommandText = "select Nombre, Edad, Nacionalidad, UrlFoto from Persona";
+                comando.CommandText = "select P.Nombre, P.Edad, P.Nacionalidad, P.UrlFoto, E.Descripcion from persona P, estilos E where P.estilo_id = E.id";
                 comando.Connection = conexion;
 
                 conexion.Open();
@@ -39,6 +39,8 @@ namespace ProyectoSimple
                     aux.Edad = (int)lector["Edad"];
                     aux.Nacionalidad = (string)lector["Nacionalidad"];
                     aux.UrlFoto = (string)lector["UrlFoto"];
+                    aux.EstiloMusical = new Estilo();
+                    aux.EstiloMusical.Descripcion = (String)lector["Descripcion"];
 
                     Personas.Add(aux);
                 }
