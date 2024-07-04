@@ -1,0 +1,6 @@
+D:\Proyectos C# Visual Studio Community\BibliotecaPersonas\dominio\bin\Debug\dominio.dll
+D:\Proyectos C# Visual Studio Community\BibliotecaPersonas\dominio\bin\Debug\dominio.pdb
+D:\Proyectos C# Visual Studio Community\BibliotecaPersonas\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+D:\Proyectos C# Visual Studio Community\BibliotecaPersonas\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+D:\Proyectos C# Visual Studio Community\BibliotecaPersonas\dominio\obj\Debug\dominio.dll
+D:\Proyectos C# Visual Studio Community\BibliotecaPersonas\dominio\obj\Debug\dominio.pdb
